@@ -1,5 +1,4 @@
 # Requerimientos del Proyecto - Predicción AQI Dhaka
-python>=3.10.0
 kagglehub>=0.2.0
 pandas>=2.0.0
 numpy>=1.24.0
