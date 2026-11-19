@@ -11,16 +11,12 @@ contaminantes** (dataset [Dhaka Air Quality Index](https://www.kaggle.com/datase
 
 ```
 ├── data/
-│   └── dhaka_air_quality_no_pollutants.csv     # 10.000 registros, 13 variables
+│   └── dhaka_air_quality_no_pollutants.csv          # 10.000 registros, 13 variables
 ├── notebooks/
-│   ├── proyecto_final_AQI.ipynb                 # Notebook principal: reproduce TODO el informe
-│   ├── Exploración_inicial_dataset_Dhaka_AQI.ipynb  # Exploración inicial (primera entrega)
-│   ├── figuras/                                 # Figuras generadas por el notebook (PDF y PNG)
-│   └── resultados/                              # Tablas de resultados (CSV, incluido el consenso) y resultados.json
+│   ├── proyecto_final_AQI.ipynb                     # Notebook principal: reproduce TODO el informe
+│   └── Exploración_inicial_dataset_Dhaka_AQI.ipynb  # Exploración inicial (primera entrega)
 ├── reporte/
-│   ├── main.tex                                 # Código LaTeX del informe (plantilla IEEE Transactions)
-│   ├── figuras/                                 # Figuras usadas en el informe
-│   └── informe_final.pdf                        # Informe final
+│   └── informe_final.pdf                            # Informe final
 ├── requirements.txt
 └── README.md
 ```
