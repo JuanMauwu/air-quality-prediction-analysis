@@ -1,7 +1,10 @@
-# Requerimientos del Proyecto - Predicción AQI Dhaka
-kagglehub>=0.2.0
 pandas>=2.0.0
 numpy>=1.24.0
+scipy>=1.10.0
 scikit-learn>=1.3.0
+umap-learn>=0.5.5
 matplotlib>=3.7.0
 seaborn>=0.12.0
+jupyter>=1.0.0
+# Sólo para el notebook de exploración inicial (descarga desde Kaggle)
+kagglehub>=0.2.0

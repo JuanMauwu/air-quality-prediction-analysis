@@ -10,16 +10,25 @@ contaminantes** (dataset [Dhaka Air Quality Index](https://www.kaggle.com/datase
 ## Estructura del repositorio
 
 ```
+air-quality-prediction-analysis/
 ├── data/
-│   └── dhaka_air_quality_no_pollutants.csv          # 10.000 registros, 13 variables
+│   └── dhaka_air_quality_no_pollutants.csv
 ├── notebooks/
-│   ├── proyecto_final_AQI.ipynb                     # Notebook principal: reproduce TODO el informe
-│   └── Exploración_inicial_dataset_Dhaka_AQI.ipynb  # Exploración inicial (primera entrega)
+│   ├── proyecto_final_AQI.ipynb
+│   └── Exploración_inicial_dataset_Dhaka_AQI.ipynb
 ├── reporte/
-│   └── informe_final.pdf                            # Informe final
+│   └── informe_final.pdf
 ├── requirements.txt
 └── README.md
 ```
+
+| Archivo | Descripción |
+|---|---|
+| `data/dhaka_air_quality_no_pollutants.csv` | Conjunto de datos: 10.000 registros y 13 variables |
+| `notebooks/proyecto_final_AQI.ipynb` | **Notebook principal**: reproduce todos los resultados del informe |
+| `notebooks/Exploración_inicial_dataset_Dhaka_AQI.ipynb` | Exploración inicial de los datos (primera entrega) |
+| `reporte/informe_final.pdf` | Informe final (plantilla IEEE) |
+| `requirements.txt` | Librerías necesarias para ejecutar los notebooks |
 
 ## Cómo reproducir los resultados
 
