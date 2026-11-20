@@ -17,7 +17,7 @@ air-quality-prediction-analysis/
 │   ├── proyecto_final_AQI.ipynb
 │   └── Exploración_inicial_dataset_Dhaka_AQI.ipynb
 ├── reporte/
-│   └── informe_final.pdf
+│   └── air_quality_models_comparation.pdf
 ├── requirements.txt
 └── README.md
 ```
@@ -81,4 +81,4 @@ jupyter notebook notebooks/proyecto_final_AQI.ipynb
 | SVR + PCA (10 comp., −67,7 %) | 25,43 ± 1,35 | 24,77 | 0,903 |
 | SVR + UMAP (10 comp.) | 33,14 ± 1,70 | 33,35 | 0,824 |
 
-El informe completo está en [`reporte/air_quality_models_comparation.pdf`](air_quality_models_comparation.pdf).
+El informe completo está en [`reporte/air_quality_models_comparation.pdf`]([air_quality_models_comparation.pdf](https://github.com/JuanMauwu/air-quality-prediction-analysis/blob/main/reporte/air_quality_models_comparation.pdf)).
