@@ -82,4 +82,5 @@ jupyter notebook notebooks/proyecto_final_AQI.ipynb
 | SVR + UMAP (10 comp.) | 33,14 ± 1,70 | 33,35 | 0,824 |
 
 Enlace al informe en el repo: [`reporte/air_quality_models_comparation.pdf`](reporte/air_quality_models_comparation.pdf).
-Enlace video Youtube: [`Video YouTube`]().
+
+Enlace video Youtube: [`Video YouTube`](https://youtu.be/rvtNS7I7U6Q?si=OgzyGYcYhJUexwlL).
